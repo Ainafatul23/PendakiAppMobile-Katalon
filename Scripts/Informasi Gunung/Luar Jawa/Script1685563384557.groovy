@@ -58,7 +58,7 @@ int startY = device_Height * 0.30
 
 //'Storing the endY value'
 
-int endY = device_Height * 0.70
+int endY = device_Height * 0.70 
 
 //'Swipe Vertical from top to bottom'
 
